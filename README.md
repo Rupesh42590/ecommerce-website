@@ -159,7 +159,4 @@ To deploy your own version:
 ##  Quick Links
 
 -  **[Live Demo](https://ecommerce-website-nine-hazel.vercel.app/)**
--  **[GitHub Repository](https://github.com/your-username/amazon-clone)**
--  **[Report Issues](https://github.com/your-username/amazon-clone/issues)**
--  **[Discussions](https://github.com/your-username/amazon-clone/discussions)**
 
