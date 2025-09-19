@@ -52,7 +52,6 @@ Amazon-Clone/
 │   └── orders.css          # Order history page styling
 ├── images/
 │   ├── products/           # Product images
-│   ├── ratings/            # Star rating images
 │   └── [other icons]       # UI icons & logos
 └── README.md               # Project documentation
 ```
